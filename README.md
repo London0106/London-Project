@@ -12,7 +12,9 @@ Projects that I'm planning to build (Upd- Sep/12/2025)
   
   • IDE website tool
   
-  • Secret Patent Project
+  • Patent Project
+
+  • Command Prompt System with ChatGPT Api
   
 --------------------------------------------------
 Projects that I'm planning to learn (Upd- Sep/12/2025)
