@@ -39,3 +39,9 @@ Projects that I have finished (Upd- Sep/12/2025)
   • Music player website
   
   • Gym Progress tracker
+
+  • Command Prompt System
+
+  • BMI Calculator
+
+  • Mentorship collaboration website
