@@ -1,2 +1,2 @@
 # London-Project
-Learning, Improving and Experiencing by making Projects
+Learning, Improving and Experiencing by making Projects.
