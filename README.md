@@ -1,6 +1,6 @@
 # London-Project
 Learning, Improving and Experiencing by making Projects.
-The purpose of this repository is to journal my programming journey, so I can keep track of my projects and maintain consistent discipline.
+The purpose of this repository is to journal my programming journey, so I can keep track of my projects and maintain consistent discipline. (Sep/12/2025)
 
 made by 
 
@@ -17,7 +17,7 @@ Projects that I'm planning to build (Upd- Sep/12/2025)
   • Command Prompt System with ChatGPT Api
   
 --------------------------------------------------
-Projects that I'm planning to learn (Upd- Sep/12/2025)
+Projects that I'm planning to learn (Upd- Sep/13/2025)
 
   • Payment system
   
@@ -36,7 +36,7 @@ Projects that I'm planning to learn (Upd- Sep/12/2025)
   • Vibe coding / AI Agent
   
 --------------------------------------------------
-Projects that I have finished (Upd- Sep/12/2025)
+Projects that I have finished (Upd- Sep/14/2025)
 
   • Music player website
   
