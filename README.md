@@ -46,6 +46,10 @@ Projects that I have finished (Upd- Sep/14/2025)
 
   • Command Prompt System
 
+  • AI Shell Agent
+
   • BMI Calculator
 
   • Mentorship collaboration website
+
+  • Journal & Planner
