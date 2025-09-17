@@ -14,7 +14,7 @@ Projects that I'm planning to build (Upd- Sep/17/2025)
   
   • Patent Project
 
-  • Command Prompt System with ChatGPT Api
+  • Command Prompt System with ChatGPT Api B2B SaaS
 
   • Raja Ampat Indonesia Hotel Booking Website
 
