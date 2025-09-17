@@ -6,7 +6,7 @@ made by
 
 ![Image](https://github.com/user-attachments/assets/ba5fb303-a3d0-4370-9b54-850958f48bea).
 --------------------------------------------------
-Projects that I'm planning to build (Upd- Sep/14/2025)
+Projects that I'm planning to build (Upd- Sep/17/2025)
 
   • Portofolio CV website
   
@@ -17,6 +17,8 @@ Projects that I'm planning to build (Upd- Sep/14/2025)
   • Command Prompt System with ChatGPT Api
 
   • Raja Ampat Indonesia Hotel Booking Website
+
+  • United Nation Indonesia Sustainable Development Programming Education Website for Children
   
 --------------------------------------------------
 Projects that I'm planning to learn (Upd- Sep/13/2025)
