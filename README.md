@@ -6,7 +6,7 @@ made by
 
 ![Image](https://github.com/user-attachments/assets/ba5fb303-a3d0-4370-9b54-850958f48bea).
 --------------------------------------------------
-Projects that I'm planning to build (Upd- Sep/17/2025)
+Projects that I'm planning to build (Upd- Sep/22/2025)
 
   • Portofolio CV website
   
@@ -44,7 +44,7 @@ Projects that I'm planning to learn (Upd- Sep/13/2025)
   • AI API Implementation
   
 --------------------------------------------------
-Projects that I have finished (Upd- Sep/14/2025)
+Projects that I have finished (Upd- Sep/22/2025)
 
   • Music player website
   
