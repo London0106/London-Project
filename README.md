@@ -19,6 +19,8 @@ Projects that I'm planning to build (Upd- Sep/17/2025)
   • Raja Ampat Indonesia Hotel Booking Website
 
   • United Nation Indonesia Sustainable Development Programming Education Website for Children
+
+  • Cybersecurity trojan prototype for white hat ethical learning purposes
   
 --------------------------------------------------
 Projects that I'm planning to learn (Upd- Sep/13/2025)
@@ -38,13 +40,15 @@ Projects that I'm planning to learn (Upd- Sep/13/2025)
   • Android/IOS apps
   
   • Vibe coding / AI Agent
+
+  • AI API Implementation
   
 --------------------------------------------------
 Projects that I have finished (Upd- Sep/14/2025)
 
   • Music player website
   
-  • Gym Progress tracker
+  • Gym Progress tracker, workout goal and timer website
 
   • Command Prompt System
 
@@ -54,4 +58,8 @@ Projects that I have finished (Upd- Sep/14/2025)
 
   • Mentorship collaboration website
 
-  • Journal & Planner
+  • Journal & Planner website
+
+  • Portofolio CV
+
+  • E Book Reader website
